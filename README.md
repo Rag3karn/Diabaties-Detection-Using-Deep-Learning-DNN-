@@ -1,11 +1,11 @@
 ----------------------------
-##Details of the Project-
+###Details of the Project-
 ----------------------------
 Language Used-Python
 ----------------------------
 Code editor and compiler used- Visual Studio Code
 ------------------------------------------------------------------------------------
-##Information of every column of the dateset used for the project-
+###Information of every column of the dateset used for the project-
 ----------------------------
 1.Number of times Pregnant
 ----------------------------
@@ -33,9 +33,9 @@ Deep Neuaral Network(DNN) model was used in the project for training the model.
 ----------------------------
 As data was limited training and testing data used is the same.
 -------------------------------------------------------------------------------------
-##Code Information-
+###Code Information-
 ----------------------------
-#Libraries Used-
+###Libraries Used-
 ----------------------------
 Loadtxt-To handle the dateset file
 ----------------------------
